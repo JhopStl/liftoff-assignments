@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/JhopStl
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/jhopkinsm/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://github.com/JhopStl/liftoff-assignments/blob/master/C1-Online_Profiles/JHopkins_Resume.pdf
